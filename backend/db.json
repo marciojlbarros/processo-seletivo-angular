@@ -1,0 +1,36 @@
+{
+  "candidatos": [
+    {
+      "id": 1,
+      "area-interesse": "UNINTA - ADMINISTRAÇÃO - NOITE",
+      "nome": "ANDERSON BARBOSA RODRIGUES",
+      "data_nascimento": "11-07-1991",
+      "email": "anderson.ecomp@gmail.com",
+      "telefone1": "88999749194",
+      "identidade": "2006031009700",
+      "cpf": "04737582379",
+      "rua": "RUA APRÍGIO CELSO LIMA VERDE",
+      "numero": "523",
+      "bairro": "RENATO PARENTE",
+      "estado": "CE",
+      "cidade": "Sobral",
+      "cep": "62033160"
+    },
+    {
+      "area-interesse": "UNINTA - NUTRIÇÃO - TARDE",
+      "nome": "LUCAS",
+      "data_nascimento": "11-10-2003",
+      "email": "lucas123@gmail.com",
+      "telefone1": "8899999999",
+      "identidade": "2006031009700",
+      "cpf": "04737582379",
+      "rua": "RUA APRÍGIO CELSO LIMA VERDE",
+      "numero": "523",
+      "bairro": "RENATO PARENTE",
+      "estado": "CE",
+      "cidade": "Sobral",
+      "cep": "62033160",
+      "id": 2
+    }
+  ]
+}
